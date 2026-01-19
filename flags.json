@@ -1,0 +1,164 @@
+{
+  "easy": [
+    {
+      "country": "France",
+      "description": "Three vertical stripes: blue, white, and red."
+    },
+    {
+      "country": "Japan",
+      "description": "White background with a red circle in the center."
+    },
+    {
+      "country": "Italy",
+      "description": "Three vertical stripes: green, white, and red."
+    },
+    {
+      "country": "United States",
+      "description": "Thirteen red and white stripes with a blue rectangle and white stars in the top-left corner."
+    },
+    {
+      "country": "United Kingdom",
+      "description": "A blue field with a red and white combined cross pattern known as the Union Jack."
+    },
+    {
+      "country": "Germany",
+      "description": "Three horizontal stripes: black on top, red in the middle, and gold on the bottom."
+    },
+    {
+      "country": "Portugal",
+      "description": "Green on the hoist side and red on the fly side with a complex coat of arms on the border between the colors."
+    },
+    {
+      "country": "Switzerland",
+      "description": "A red square flag with a bold, white, equilateral cross in the center."
+    },
+    {
+      "country": "Netherlands",
+      "description": "Three horizontal stripes: red on top, white in the middle, and blue on the bottom."
+    },
+    {
+      "country": "Greece",
+      "description": "Blue and white horizontal stripes with a white cross on a blue square in the top-left corner."
+    },
+    {
+      "country": "Mexico",
+      "description": "Three vertical stripes: green, white, and red, with an eagle and snake emblem in the center of the white stripe."
+    },
+    {
+      "country": "Argentina",
+      "description": "Three horizontal stripes: light blue, white, and light blue, with a yellow sun in the center."
+    },
+    {
+      "country": "Australia",
+      "description": "A blue field with the Union Jack in the top-left corner and white stars including the Southern Cross."
+    }
+  ],
+  "medium": [
+    {
+      "country": "Brazil",
+      "description": "Green field with a yellow diamond and a blue globe with stars and a banner."
+    },
+    {
+      "country": "Canada",
+      "description": "Red bands on the sides with a white center featuring a red maple leaf."
+    },
+    {
+      "country": "Spain",
+      "description": "Red and yellow horizontal stripes with a coat of arms toward the hoist side."
+    },
+    {
+      "country": "Sweden",
+      "description": "A blue field with a yellow Nordic cross extending to the edges."
+    },
+    {
+      "country": "Norway",
+      "description": "A red field with a blue Nordic cross outlined in white."
+    },
+    {
+      "country": "India",
+      "description": "Horizontal stripes of saffron, white, and green with a navy blue wheel in the center."
+    },
+    {
+      "country": "South Africa",
+      "description": "Green Y-shape with bands of black, yellow, white, red, and blue."
+    },
+    {
+      "country": "Turkey",
+      "description": "A red field with a white star and crescent slightly off-center."
+    },
+    {
+      "country": "Russia",
+      "description": "Three horizontal stripes: white on top, blue in the middle, and red on the bottom."
+    },
+    {
+      "country": "China",
+      "description": "Red field with one large yellow star and four smaller stars in the top-left corner."
+    },
+    {
+      "country": "Belgium",
+      "description": "Three vertical stripes: black, yellow, and red."
+    },
+    {
+      "country": "Ireland",
+      "description": "Three vertical stripes: green, white, and orange."
+    },
+    {
+      "country": "Poland",
+      "description": "Two horizontal stripes: white on top and red on the bottom."
+    }
+  ],
+  "hard": [
+    {
+      "country": "Nepal",
+      "description": "Only non-rectangular flag: two stacked triangles with a white sun and moon on a red field bordered in blue."
+    },
+    {
+      "country": "Bhutan",
+      "description": "Diagonal yellow and orange with a white dragon in the center holding jewels."
+    },
+    {
+      "country": "Mozambique",
+      "description": "Green, black, and yellow horizontal stripes with white fimbriations and a red triangle containing a star, book, hoe, and rifle."
+    },
+    {
+      "country": "Estonia",
+      "description": "Three horizontal stripes: blue on top, black in the middle, and white on the bottom."
+    },
+    {
+      "country": "Kazakhstan",
+      "description": "A light blue field with a golden sun and soaring eagle in the center and a national ornamental pattern near the hoist."
+    },
+    {
+      "country": "Tanzania",
+      "description": "Divided diagonally by a black band with yellow edges from bottom-left to top-right, with green and blue triangles."
+    },
+    {
+      "country": "Seychelles",
+      "description": "Oblique bands of blue, yellow, red, white, and green radiating from the bottom-left corner."
+    },
+    {
+      "country": "Barbados",
+      "description": "Three vertical stripes: ultramarine, gold, and ultramarine, with a black trident head in the center."
+    },
+    {
+      "country": "Kyrgyzstan",
+      "description": "A red field with a yellow sun in the center containing a stylized depiction of a tunduk (yurt roof)."
+    },
+    {
+      "country": "Papua New Guinea",
+      "description": "Diagonally divided black and red field with white stars on the black half and a yellow bird-of-paradise on the red half."
+    },
+    {
+      "country": "Sri Lanka",
+      "description": "A maroon field with a golden lion holding a sword and yellow and green vertical stripes at the hoist."
+    },
+    {
+      "country": "Botswana",
+      "description": "A light blue field with a horizontal black stripe bordered by white in the center."
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "description": "A red field with a black, blue, and white triangle at the hoist and a rising golden sun at the top of the black area."
+    }
+  ]
+}
